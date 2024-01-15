@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200&family=Josefin+Sans:wght@300&family=Roboto&display=swap");
+
+.containerr {
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 10vh;
+}
+
+.containerr {
+  font-family: 'Assistant', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.card{
+    background-color: white;
+    padding: 8px;
+
+    border-radius: 12px;
+    border: 1px solid #BACDD8;
+}
+
+.name{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.card p{
+    font-size: 14px;
+    color: #7F8C9B;
+    line-height: 150%;
+}
